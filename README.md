@@ -1,2 +1,2 @@
-# C-project
+# C++-project
 Title: SRM bus reservation
